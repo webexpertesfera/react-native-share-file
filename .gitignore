@@ -55,7 +55,8 @@ buck-out/
 
 # Visual Studio Code
 #
-.vscode/.react/
-.vscode/.react/index.bundle
-.vscode/.react/index.map
-.vscode/.react/debuggerWorker.js
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
